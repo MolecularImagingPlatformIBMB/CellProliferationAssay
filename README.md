@@ -1,0 +1,2 @@
+# CellProliferationAssay
+This pipeline is tailored to cells in culture that have been infected by lentivirus of short-hairpin constructs (directed to target genes) and further immunostained against different proliferation markers, such as ki67 and PH3. A GFP reporter is used to differentiate the infected and non-infected populations, and ki67 and PH3 are counted within each cell population. The workflow uses two macros, one for nuclei segmentation and other for cell counting. See instructions.
